@@ -1,0 +1,20 @@
+{
+  "name": "@cailiao/system-dialog",
+  "version": "1.0.0",
+  "description": "系统弹框",
+  "engines": {
+    "node": ">=14"
+  },
+  "bin": {
+    "system-dialog": "bin/index.js"
+  },
+  "author": "cailiao",
+  "license": "ISC",
+  "keywords": [
+    "zenity",
+    "system",
+    "dialog",
+    "gui",
+    "interaction"
+  ]
+}
