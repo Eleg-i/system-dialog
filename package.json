@@ -8,7 +8,15 @@
   "bin": {
     "system-dialog": "bin/index.js"
   },
-  "author": "cailiao",
+  "author": "cailiao(Eleg-i)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eleg-i/system-dialog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eleg-i/system-dialog/issues"
+  },
+  "homepage": "https://github.com/Eleg-i/system-dialog/#readme",
   "license": "ISC",
   "keywords": [
     "zenity",
